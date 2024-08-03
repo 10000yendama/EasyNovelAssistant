@@ -1,0 +1,7 @@
+__pycache__
+config.json
+llm.json
+llm_sequence.json
+log
+sample
+venv
